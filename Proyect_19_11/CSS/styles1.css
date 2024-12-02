@@ -1,0 +1,48 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    padding: 0;
+    
+}
+
+h1{
+    font-size: 3rem;
+    
+}
+
+p{
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(70, 77, 71);
+}
+
+a{
+    color: rgb(70, 77, 71);
+    text-decoration: none;
+}
+
+a:hover {
+    color:#1b4337 ;
+    font-weight: bold;
+    text-decoration: overline;
+    
+}
+
+body{
+    background-color:#e3f5cb ;
+    text-align: center;
+}
+
+footer{
+    display: block;
+    justify-content: center;
+    background-color:#667a61;
+    color: aliceblue;
+    border-radius: 1rem;
+    max-height: 15rem;
+
+}
+
+.Derec_rev{
+    font-size: 2rem;
+}
